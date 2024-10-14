@@ -7,7 +7,7 @@ The project allows one to input a task title, task description, time due, and th
 ******
 
 ## SCREENSHOTS
-- ![Screenshot 2023-03-10 at 3 18 17 PM](https://karanja-23.github.io/Todo-Image1/)
+- ![Screenshot 2023-03-10 at 3 18 17 PM](https://github.com/karanja-23/Todo-Image1/blob/main/chrome-capture-2024-10-14.gif)
 
 
 
