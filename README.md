@@ -8,7 +8,7 @@ The app dispalys movies on the sidebar, allowing one to select a movie of their 
 
 ******
 
-## SCREENSHOTS
+## SCREENSHOT
 - ![Screenshot 2023-03-10 at 3 18 17 PM](https://github.com/karanja-23/Todo-Image1/blob/main/chrome-capture-2024-10-14.gif)
 
 
