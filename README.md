@@ -1,9 +1,11 @@
-# MY TASK LISTER
+# MY Flatadango 
 *****
 ### Author : Hosea Karanja
+
 ****
 ## Project Description
-The project allows one to input a task title, task description, time due, and the tasks priority. The input is posted to a JSON server and fetched and portlayed in the DOM. It also allows deletion of tasks, both at the server and the DOM. It also highlights high Priority tasks.
+The app dispalys movies on the sidebar, allowing one to select a movie of their choice. After selection, the movie details are displayed, including the poster,, title,runtime, showtime and available tickets. It allows the user to buy tickets for movies, if there are any available and updates the server, then displays the remaining tickets in the DOM. It also allows the user to delete movies from the server and updates the DOM on the same. 
+
 ******
 
 ## SCREENSHOTS
@@ -37,17 +39,19 @@ The project allows one to input a task title, task description, time due, and th
 > Run using live server
 *****
 ## Live Link
-Or you can access the web application directly via this [https://karanja-23.github.io/phase-1-tasklister-mini-project/]
+Or you can access the web application directly via this [https://karanja-23.github.io/code-challenge-3/]
 *****
 ## Dependencies
 
 - Font awesome Icons
+- json server
 
 *****
 ## Technologies Used
 1. HTML
 2. CSS
 3. JavaScript
+4. json
 *****
 ## Contact Information
 * Email : karanja.mungai23@gmail.com
