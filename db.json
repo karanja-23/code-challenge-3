@@ -21,16 +21,6 @@
       "poster": "https://www.gstatic.com/tv/thumb/v22vodart/47781/p47781_v_v8_ac.jpg"
     },
     {
-      "id": "3",
-      "title": "Time Chasers",
-      "runtime": "93",
-      "capacity": 50,
-      "showtime": "09:30PM",
-      "tickets_sold": 25,
-      "description": "An inventor comes up with a time machine, but must prevent its abuse at the hands of an evil C.E.O.",
-      "poster": "https://www.gstatic.com/tv/thumb/v22vodart/23342/p23342_v_v8_ab.jpg"
-    },
-    {
       "id": "4",
       "title": "The Touch Of Satan",
       "runtime": "101",
@@ -86,7 +76,7 @@
       "runtime": "99",
       "capacity": 40,
       "showtime": "07:30PM",
-      "tickets_sold": 7,
+      "tickets_sold": 11,
       "description": "A saboteur posing as a scientist strives to destroy the world's first space station.",
       "poster": "https://www.gstatic.com/tv/thumb/v22vodart/46755/p46755_v_v8_aa.jpg"
     },
@@ -96,7 +86,7 @@
       "runtime": "122",
       "capacity": 50,
       "showtime": "10:00PM",
-      "tickets_sold": 9,
+      "tickets_sold": 12,
       "description": "Giant spiders from another dimension invade Wisconsin.",
       "poster": "https://www.gstatic.com/tv/thumb/v22vodart/42171/p42171_v_v8_ab.jpg"
     },
@@ -106,7 +96,7 @@
       "runtime": "104",
       "capacity": 30,
       "showtime": "06:00PM",
-      "tickets_sold": 10,
+      "tickets_sold": 14,
       "description": "A group of swingin' teens take time out from having fun in the sun to try to foil a group of crooks searching for a stolen scroll.",
       "poster": "https://www.gstatic.com/tv/thumb/v22vodart/58122/p58122_v_v8_aa.jpg"
     },
@@ -190,6 +180,66 @@
     },
     {
       "id": "b2c0",
+      "film_id": "10",
+      "number_of_tickets": 1
+    },
+    {
+      "id": "59e7",
+      "film_id": "3",
+      "number_of_tickets": 1
+    },
+    {
+      "id": "db33",
+      "film_id": "11",
+      "number_of_tickets": 1
+    },
+    {
+      "id": "7c7d",
+      "film_id": "11",
+      "number_of_tickets": 1
+    },
+    {
+      "id": "dc52",
+      "film_id": "11",
+      "number_of_tickets": 1
+    },
+    {
+      "id": "f676",
+      "film_id": "11",
+      "number_of_tickets": 1
+    },
+    {
+      "id": "a9ff",
+      "film_id": "9",
+      "number_of_tickets": 1
+    },
+    {
+      "id": "d682",
+      "film_id": "9",
+      "number_of_tickets": 1
+    },
+    {
+      "id": "5b57",
+      "film_id": "9",
+      "number_of_tickets": 1
+    },
+    {
+      "id": "11d9",
+      "film_id": "9",
+      "number_of_tickets": 1
+    },
+    {
+      "id": "8c69",
+      "film_id": "10",
+      "number_of_tickets": 1
+    },
+    {
+      "id": "073d",
+      "film_id": "10",
+      "number_of_tickets": 1
+    },
+    {
+      "id": "36bd",
       "film_id": "10",
       "number_of_tickets": 1
     }
